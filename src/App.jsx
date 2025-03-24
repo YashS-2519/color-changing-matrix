@@ -1,4 +1,3 @@
-import './App.css'
 import Matrix from './pages/Matrix'
 
 function App() {
